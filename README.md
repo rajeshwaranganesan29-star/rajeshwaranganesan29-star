@@ -15,8 +15,7 @@ I turn raw data into clear, useful insights. I come from a business and finance 
 
 | I have | I'm learning |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mysql,powerbi,excel,git,github,md" /> | <img src="https://skillicons.dev/icons?i=py" /> |
-
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" /> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="48" height="48" alt="Excel" /> <img src="https://skillicons.dev/icons?i=mysql,git,github,md" height="48" /> | <img src="https://skillicons.dev/icons?i=py" height="48" /> |
 ### Data Analytics Skills
 
 | Area | What I do |
